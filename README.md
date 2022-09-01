@@ -4,4 +4,4 @@ NPM   : 2106650090
 
 Kelas : F
 
-Hobi  : Nonton
+Hobi  : nyamnyam
